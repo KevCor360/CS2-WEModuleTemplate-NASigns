@@ -20,10 +20,11 @@ This is a project to be used as starter point to any new module pack of Write Ev
 After that, just don't forget to change the Version parameter in the csproj file if you need to upload new versions of the module!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="" />
-  <ModVersion Value="1.1.0.0" />
+  <ModVersion Value="1.2.0.0" />
   <GameVersion Value="1.*" />
   <ChangeLog>#  v1.0.0r0
 \&lt;ADD CHANGES HERE\&gt;</ChangeLog>
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
+  <ExternalLink Type="github" Url="https://github.com/jackskellington6CS/CS2-WEModuleTemplate-NASigns" />
 </Publish>

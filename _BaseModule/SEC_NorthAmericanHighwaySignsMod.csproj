@@ -18,13 +18,13 @@
 	<PropertyGroup>
 		<IsBelzontCommonsMod>false</IsBelzontCommonsMod>
 		<ModId>128374</ModId>
-		<Version>1.1.0.0</Version>
+		<Version>1.2.0.0</Version>
 		<GameVersion>1.*</GameVersion>
 		<ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
 		<DisplayName>North American Highway Signs (WE-Module)</DisplayName>
 		<ShortDescription>North American Highway Signs (WE-Module)</ShortDescription>
 		<ForumLink></ForumLink>
-		<GitHubLink></GitHubLink>
+		<GitHubLink>https://github.com/jackskellington6CS/CS2-WEModuleTemplate-NASigns</GitHubLink>
 		<YoutubeLink></YoutubeLink>
 		<KofiLink></KofiLink>
 		<BMACLink></BMACLink>
